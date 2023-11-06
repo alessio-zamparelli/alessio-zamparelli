@@ -42,14 +42,13 @@
 </br>
 
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessio-zamparelli&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/alessio-zamparelli/)
 
 (Few of my projects are on github, most are on Gitea in a vps)
 
 ## Visitors
 
-[![Visitors](https://counter.aeng.it/alessio-zamparelli/svg)](https://github.com/alessio-zamparelli)
+[![Visitors](https://counter.aeng.it/alessio-zamparelli/svg?on=profile)](https://github.com/alessio-zamparelli)
 
 
 ### :handshake: Connect with Me
