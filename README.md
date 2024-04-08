@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 About Me
 
-<div>🔭 &nbsp; I’m currently working in Quality & Test management team</div>
+<div>🔭 &nbsp; I’m currently working in Quality & Test management team at Intesa Sanpaolo 🏦</div>
 <div>🤔 &nbsp; Exploring new technologies and developing software solutions</div>
 <div>🌱 &nbsp; Passionate about evolving technology and scalable solutions</div>
 <div>💬 &nbsp; Ask me about anything, I would like to answer.</div>
